@@ -1,3 +1,8 @@
+-=(RX78_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p.
+
+___
 # Bandai RX-78
 
 Bandai RX-78 core for MiSTer FPGA by Pierco (Pierre Cornier) & Alanswx (Alan Steremberg).
