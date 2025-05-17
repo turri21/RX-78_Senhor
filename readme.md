@@ -1,6 +1,6 @@
 -=(RX78_Senhor notes)=-
 
-Tested: Working Video 720p, 1080p.
+Tested: Working Video 720p, 1080p & sound.
 
 ___
 # Bandai RX-78
